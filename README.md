@@ -8,6 +8,8 @@ It started with `yardsale.js` which I did to check why we kept getting 2 mistake
 
 `secret7.js` was next, which we did manually first but I added to here incase it helps with one of the [unknowns](unknowns.md)
 
+Third I added `secretA.js`, again, to try deal with unknowns.
+
 # Setup
 
 Do a `nvm use` to set your version of node to match what I am using but it should "just work" with anything.
